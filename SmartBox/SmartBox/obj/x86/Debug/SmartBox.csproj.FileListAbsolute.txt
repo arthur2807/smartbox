@@ -1,0 +1,6 @@
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\bin\Debug\SmartBox.exe
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\bin\Debug\SmartBox.pdb
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\obj\x86\Debug\SmartBox.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\obj\x86\Debug\SmartBox.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\obj\x86\Debug\SmartBox.exe
+C:\Users\Marcelo\Desktop\SmartBox\smartbox\SmartBox\SmartBox\obj\x86\Debug\SmartBox.pdb
